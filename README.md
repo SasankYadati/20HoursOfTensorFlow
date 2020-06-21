@@ -3,7 +3,7 @@
 <br>
 <br>
 <b>1.1</b> 6 hrs (actual)<br>
-<b>1.2</b> 6 hrs (estimate)<br>
+<b>1.2</b> 6 hrs (actual)<br>
 <b>1.3</b> 6 hrs (estimate)<br>
 <b>1.4</b> 6 hrs (estimate)<br>
 
