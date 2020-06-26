@@ -11,4 +11,6 @@
 <b>3)</b> 7 hrs (estimate)  
 <b>4)</b> 7 hrs (estimate)  
 
+## TensorFlow Live Project  
+<<Will update soon>>  
 Update: 20 hours sounded enough. Bad estimate on my end. Since the goal is to be fluent and get familiar with advanced use cases of TensorFlow, I estimate it to take 70 hours.
